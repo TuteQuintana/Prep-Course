@@ -1,10 +1,40 @@
-.divClass h1{
-    color: green;
+body {
+    height:640px;
+    background-image: url(https://i.discogs.com/r_G_TtQlDymWkzYT_FtG7TevUVwI8usavgFnBK5mDcI/rs:fit/g:sm/q:90/h:430/w:340/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI2NjY4/MjItMTM2ODY1MzYz/NS04NjQ0LmdpZg.jpeg);
+    background-size: 20rem;
 }
 
-.divClass #spanId{
+
+.divClass h1{
+    color: green;
+
+}
+
+.divClass h3 {
+    color: white;
+
+}
+
+.divClass h4 {
+    color: yellow;
+
+
+}
+
+.divClass {
+    height: 300px;
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.divClass #spanId {
     font-size: 18px;
-    margin: 50px;
+    color: blue;
+    text-align: center;
+    
 }
 
 #thirdDiv{
@@ -13,6 +43,8 @@
     padding: 50px;
     border: 25px crimson;
     background-color: cyan;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
